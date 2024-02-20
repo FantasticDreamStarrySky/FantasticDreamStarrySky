@@ -94,3 +94,19 @@
 </td></tr>
 
 <tr><td>
+
+### 🧠 Second Brain
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
+
+<!-- START_SECTION:brain -->
+* <a href='https://brain.sunguoqi.com/web/frontend/guide/evolution.html' target='_blank'>前端开发演进史</a> - 2023-03-25
+* <a href='https://brain.sunguoqi.com/web/frontend/guide/what-is.html' target='_blank'>什么是前端开发</a> - 2024-02-20
+* <a href='https://brain.sunguoqi.com/web/frontend/js/es6/test.html' target='_blank'>es6</a> - 2023-09-07
+* <a href='https://brain.sunguoqi.com/web/frontend/js/js/test.html' target='_blank'>JS</a> - 2023-09-07
+* <a href='https://brain.sunguoqi.com/web/frontend/tools/git/git.html' target='_blank'>Git</a> - 2023-12-08
+<!-- END_SECTION:brain -->
+
+</td></tr>
+
+<tr><td>
