@@ -42,7 +42,7 @@
 #  🙋 Hello
 
 <table>
-  
+
 <tr><td>
 
 ### 🤺 About Me
@@ -80,7 +80,7 @@
 <tr><td>
 
 ### 📃 Recent Blog
-  
+
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/FantasticDreamStarrySky/FantasticDreamStarrySky/assets/images/astronaut.png" />
 
 <!-- START_SECTION:blog -->
@@ -181,7 +181,7 @@ No Activity Tracked This Week
 
  Last Updated on 21/02/2024 09:26:09 UTC
 <!--END_SECTION:waka-->
-  
+
 </td></tr>
 
 </table>
@@ -242,7 +242,7 @@ No Activity Tracked This Week
 
 <!-- Quotes 名人名言 -->
 <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
-  
+
 <!-- GitHub 奖杯🏆 -->
 <div><img src="https://github-profile-trophy.vercel.app/?username=FantasticDreamStarrySky&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
 
@@ -253,8 +253,8 @@ No Activity Tracked This Week
 <!-- Wakatime Graph-->
 <table>
   <tr>
-    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg" width="500" alt="Wakatime"/></td>
-    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500" alt="Wakatime"/></td>
+    <td><img src="https://wakatime.com/share/@018dc8d7-6806-4ca8-a4f4-94fcd1ac3c9f/2ddf265d-42cb-4ce9-8f0a-687fa1f2b80c.svg" width="500" alt="Wakatime"/></td>
+    <td><img src="https://wakatime.com/share/@018dc8d7-6806-4ca8-a4f4-94fcd1ac3c9f/ce94ecb8-334c-465c-ae28-2f0f65b7d0d8.svg" width="500" alt="Wakatime"/></td>
   </tr>
 </table>
 
@@ -281,7 +281,7 @@ No Activity Tracked This Week
 ![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat)
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
 ![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat)
-  
+
 🧠 计划学习
 
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
