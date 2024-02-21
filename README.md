@@ -253,8 +253,8 @@ No Activity Tracked This Week
 <!-- Wakatime Graph-->
 <table>
   <tr>
-    <td><img src="https://wakatime.com/share/@018dc8d7-6806-4ca8-a4f4-94fcd1ac3c9f/2ddf265d-42cb-4ce9-8f0a-687fa1f2b80c.svg" width="500" alt="Wakatime"/></td>
-    <td><img src="https://wakatime.com/share/@018dc8d7-6806-4ca8-a4f4-94fcd1ac3c9f/ce94ecb8-334c-465c-ae28-2f0f65b7d0d8.svg" width="500" alt="Wakatime"/></td>
+    <td><img src="https://wakatime.com/share/@018dc8d7-6806-4ca8-a4f4-94fcd1ac3c9f/dfb2e0ee-54c6-41fa-9cb6-71da48ef7c2c.svg" width="500" alt="Wakatime"/></td>
+    <td><img src="https://wakatime.com/share/@018dc8d7-6806-4ca8-a4f4-94fcd1ac3c9f/191efab5-785e-4b7f-8da4-2ee71873541f.svg" width="500" alt="Wakatime"/></td>
   </tr>
 </table>
 
