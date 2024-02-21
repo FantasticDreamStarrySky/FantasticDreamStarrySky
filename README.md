@@ -70,7 +70,7 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/nio.png" />
 
-- [蔚来汽车科技（安徽）有限公司](https://) &emsp; 📌 20XX-XX-XX —— 20XX-XX-XX
+- [XXXX公司](https://) &emsp; 📌 20XX-XX-XX —— 20XX-XX-XX
   
   - 工作岗位：XXXX开发实习生
   - 工作内容：XX
