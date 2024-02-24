@@ -256,8 +256,8 @@ Windows                  9 hrs 21 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 <div><img src="https://github-profile-trophy.vercel.app/?username=FantasticDreamStarrySky&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
 
 <!-- GitHub 数据统计 -->
-<img height="137" align="center"  src="https://github-readme-stats.vercel.app/api?username=FantasticDreamStarrySky&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-<img height="137" align="center" width="305"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FantasticDreamStarrySky&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&card_width=305" />
+<img height="137"  src="https://github-readme-stats.vercel.app/api?username=FantasticDreamStarrySky&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<img height="137"  width="305"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FantasticDreamStarrySky&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&card_width=305" />
 
 <!-- Wakatime Graph-->
 
