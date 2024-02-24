@@ -395,5 +395,5 @@ Windows                  9 hrs 21 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 <img width="120%" src="https://repobeats.axiom.co/api/embed/4e6fe245bf4aadc6c6b4f90d7d7c9fff5a45ce66.svg" />
 
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/FantasticDreamStarrySky/FantasticDreamStarrySky/assets/images/icon.png" /></div>
+<img src="https://cdn.jsdelivr.net/gh/FantasticDreamStarrySky/FantasticDreamStarrySky/assets/images/icon.png" />
 </div>
