@@ -116,11 +116,7 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/FantasticDreamStarrySky/FantasticDreamStarrySky/assets/images/artist.png" />
 
 <!-- START_SECTION:douban -->
-* <a href='http://movie.douban.com/subject/3793023/' target='_blank'>看过三傻大闹宝莱坞</a> 🌟🌟🌟🌟🌟 力荐- 2024-02-25
-* <a href='http://movie.douban.com/subject/25728006/' target='_blank'>看过速度与激情9</a> - 2024-02-22
-* <a href='http://movie.douban.com/subject/26266893/' target='_blank'>看过流浪地球</a> - 2024-02-22
-* <a href='http://movie.douban.com/subject/30213339/' target='_blank'>看过比得兔2：逃跑计划</a> - 2024-02-22
-* <a href='http://movie.douban.com/subject/3011317/' target='_blank'>看过闪电侠</a> - 2024-02-22
+
 <!-- END_SECTION:douban -->
 
 </td></tr>
