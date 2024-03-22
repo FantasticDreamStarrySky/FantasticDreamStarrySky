@@ -71,12 +71,12 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">XML</span>
-                                <div class="bar" style="width: 54.04%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="width: 54%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">68%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Java</span>
-                                <div class="bar" style="width: 24.432000000000002%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 24.472%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">31%</span>
                             </div>
                             <div class="entry">
