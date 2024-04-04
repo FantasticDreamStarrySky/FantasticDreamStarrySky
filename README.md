@@ -61,14 +61,14 @@
 
 ### 🏢 Work Experience
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/FantasticDreamStarrySky/FantasticDreamStarrySky/assets/images/tuhui.png" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/FantasticDreamStarrySky/FantasticDreamStarrySky/assets/images/steven.png" />
 
 - [XXXX公司](https://) &emsp; 📌 20XX-XX-XX —— 20XX-XX-XX
   
   - 工作岗位：XXXX开发工程师
   - 工作内容：XX
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/FantasticDreamStarrySky/FantasticDreamStarrySky/assets/images/nio.png" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/FantasticDreamStarrySky/FantasticDreamStarrySky/assets/images/steven.png" />
 
 - [XXXX公司](https://) &emsp; 📌 20XX-XX-XX —— 20XX-XX-XX
   
@@ -84,11 +84,7 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/FantasticDreamStarrySky/FantasticDreamStarrySky/assets/images/astronaut.png" />
 
 <!-- START_SECTION:blog -->
-* <a href='https://blog.sunguoqi.com/posts/a8bf3922/' target='_blank'>行则将至，未来可期，和 2023 好好说声再见吧！</a> - 2024-02-20
-* <a href='https://blog.sunguoqi.com/posts/2c20bbfc/' target='_blank'>青春没有售价，火车直达拉萨！</a> - 2024-02-16
-* <a href='https://blog.sunguoqi.com/posts/e9426d4f/' target='_blank'>珠海之旅｜去感受风，去聆听海，去触摸，去抵达</a> - 2024-01-03
-* <a href='https://blog.sunguoqi.com/posts/9f4f8f84/' target='_blank'>关于个人独立博客，我的折腾和思考</a> - 2023-12-09
-* <a href='https://blog.sunguoqi.com/posts/3eb6a074/' target='_blank'>Oh My Posh | Windows Terminal 美化指南</a> - 2023-07-15
+
 <!-- END_SECTION:blog -->
 
 </td></tr>
@@ -100,11 +96,7 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/FantasticDreamStarrySky/FantasticDreamStarrySky/assets/images/technologist.png" />
 
 <!-- START_SECTION:brain -->
-* <a href='https://brain.sunguoqi.com/web/frontend/guide/evolution.html' target='_blank'>前端开发演进史</a> - 2023-03-25
-* <a href='https://brain.sunguoqi.com/web/frontend/guide/what-is.html' target='_blank'>什么是前端开发</a> - 2024-02-20
-* <a href='https://brain.sunguoqi.com/web/frontend/js/es6/test.html' target='_blank'>es6</a> - 2023-09-07
-* <a href='https://brain.sunguoqi.com/web/frontend/js/js/test.html' target='_blank'>JS</a> - 2023-09-07
-* <a href='https://brain.sunguoqi.com/web/frontend/tools/git/git.html' target='_blank'>Git</a> - 2023-12-08
+
 <!-- END_SECTION:brain -->
 
 </td></tr>
