@@ -249,7 +249,11 @@ Windows                  32 hrs 40 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 
 <!-- GitHub 数据统计 -->
 <img height="137" src="https://github-readme-stats-fdss.vercel.app/api?username=FantasticDreamStarrySky&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<<<<<<< HEAD
 <img height="137" src="https://github-readme-stats-fdss.vercel.app/api/top-langs/?username=FantasticDreamStarrySky&size_weight=0.5&count_weight=0.5&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&card_width=305" />
+=======
+<img height="137" src="https://github-readme-stats-fdss.vercel.app/api/top-langs/?username=FantasticDreamStarrySky&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&card_width=305" />
+>>>>>>> 77ffd9dad87dd5e028de0c3bb6584299ab783ff1
 
 <!-- Wakatime Graph-->
 
